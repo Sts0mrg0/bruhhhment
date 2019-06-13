@@ -2,7 +2,7 @@ const http = require("http");
 const net = require("net");
 const url = require("url");
 const httpProxy = require("http-proxy");
-const serverPort = process.env.PORT;
+const serverPort = 2003;
 
 function decodeRequest(req)
 {
