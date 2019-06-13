@@ -1,0 +1,14 @@
+{
+  "name": "bruhhhment",
+  "version": "1.0.0",
+  "description": "web proxy",
+  "main": "app.js",
+  "scripts": {
+    "test": "set PORT=2003 && node app.js"
+  },
+  "author": "Titus Ng",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
