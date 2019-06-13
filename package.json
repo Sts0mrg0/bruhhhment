@@ -4,7 +4,7 @@
   "description": "web proxy",
   "main": "app.js",
   "scripts": {
-    "test": "set PORT=2003 && node app.js"
+    "test": "node app.js"
   },
   "author": "Titus Ng",
   "license": "BSD-3-Clause",
